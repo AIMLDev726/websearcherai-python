@@ -16,7 +16,7 @@ A lightweight Python library for searching across multiple search engines includ
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AIMLDev726/websearcherai-python
 cd websearch
 pip install requests beautifulsoup4
 ```
